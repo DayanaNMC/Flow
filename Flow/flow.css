@@ -1,0 +1,47 @@
+html{
+    scroll-behavior: smooth;
+}
+body{ 
+    background-color: black;
+    color: black;
+}
+header{
+    background-color: goldenrod;
+    color: black;
+    border: 20px cornflowerblue;
+    padding: 20px;
+    margin: auto;
+}
+h1{
+    font-family: fantasy, papyrus;
+    text-align: center;
+    font-size: xx-large;
+}
+h2{
+    font-family: monospace, monaco;
+    font-size: x-large;
+    background-color: darkgray;
+}
+h3{
+    font-family: monospace, Lucida Sans;
+    background-color: khaki;
+    color: black;
+    font-size: x-large;
+    text-align: center;
+}
+p{
+    background-color: aliceblue;
+    font-size: large;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+}
